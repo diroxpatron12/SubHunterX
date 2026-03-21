@@ -13,9 +13,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)](https://github.com/khaledbenali/SubHunterX/releases)
-[![Sources](https://img.shields.io/badge/Sources-47%2B-red?style=for-the-badge)](https://github.com/khaledbenali/SubHunterX)
-[![Stars](https://img.shields.io/github/stars/khaledbenali/SubHunterX?style=for-the-badge&color=yellow)](https://github.com/khaledbenali/SubHunterX/stargazers)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)](https://github.com/khaledxbenali92/SubHunterX/releases)
+[![Sources](https://img.shields.io/badge/Sources-47%2B-red?style=for-the-badge)](https://github.com/khaledxbenali92/SubHunterX)
+[![Stars](https://img.shields.io/github/stars/khaledbenali/SubHunterX?style=for-the-badge&color=yellow)](https://github.com/khaledxbenali92/SubHunterX/stargazers)
 
 **The most powerful subdomain enumeration tool on the market.**
 Aggregates 47+ sources, DNS brute forcing, live probing, screenshots, takeover detection, cloud asset discovery, and rich HTML reports — all in one tool.
@@ -88,7 +88,7 @@ Aggregates 47+ sources, DNS brute forcing, live probing, screenshots, takeover d
 
 ```bash
 # Clone the repository
-git clone https://github.com/khaledbenali/SubHunterX.git
+git clone https://github.com/khaledxbenali92/SubHunterX.git
 cd SubHunterX
 
 # Run the installer
@@ -99,7 +99,7 @@ chmod +x install.sh
 ### Manual Install
 
 ```bash
-git clone https://github.com/khaledbenali/SubHunterX.git
+git clone https://github.com/khaledxbenali92/SubHunterX.git
 cd SubHunterX
 pip3 install -r requirements.txt
 ```
@@ -420,9 +420,9 @@ notifications:
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
-- 🐛 Report bugs via [Issues](https://github.com/khaledbenali/SubHunterX/issues)
-- 💡 Request features via [Issues](https://github.com/khaledbenali/SubHunterX/issues)
-- 🔧 Submit [Pull Requests](https://github.com/khaledbenali/SubHunterX/pulls)
+- 🐛 Report bugs via [Issues](https://github.com/khaledxbenali92/SubHunterX/issues)
+- 💡 Request features via [Issues](https://github.com/khaledxbenali92/SubHunterX/issues)
+- 🔧 Submit [Pull Requests](https://github.com/khaledxbenali92/SubHunterX/pulls)
 - ⭐ Star the repo if it helped you!
 
 ---
@@ -435,9 +435,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Made with ❤️ by [Khaled Ben Ali](https://github.com/khaledbenali)**
+**Made with ❤️ by [Khaled Ben Ali](https://github.com/khaledxbenali92)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-khaledbenali-black?style=flat-square&logo=github)](https://github.com/khaledbenali)
+[![GitHub](https://img.shields.io/badge/GitHub-khaledbenali-black?style=flat-square&logo=github)](https://github.com/khaledxbenali92)
 
 *If SubHunterX helped your bug bounty hunting, consider giving it a ⭐*
 
