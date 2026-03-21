@@ -50,7 +50,7 @@ console = Console()
 # ──────────────────────────────────────────────────────────────────────────────
 VERSION = "1.0.0"
 AUTHOR  = "Khaled Ben Ali"
-GITHUB  = "https://github.com/khaledbenali/SubHunterX"
+GITHUB  = "https://github.com/khaledxbenali92/SubHunterX/"
 
 BANNER = pyfiglet.figlet_format("SubHunterX", font="slant")
 
