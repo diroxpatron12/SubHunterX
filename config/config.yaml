@@ -1,0 +1,42 @@
+# ╔══════════════════════════════════════════════════════════╗
+# ║         SubHunterX — Configuration File                  ║
+# ║         Fill in your API keys for maximum coverage       ║
+# ╚══════════════════════════════════════════════════════════╝
+
+api_keys:
+  # ── Threat Intelligence ──────────────────────────────────
+  shodan: ""                  # https://shodan.io
+  censys_id: ""               # https://censys.io
+  censys_secret: ""
+  securitytrails: ""          # https://securitytrails.com
+  virustotal: ""              # https://virustotal.com
+  binaryedge: ""              # https://binaryedge.io
+  c99: ""                     # https://c99.nl
+  whoisxml: ""                # https://whoisxmlapi.com
+  fullhunt: ""                # https://fullhunt.io
+  chaos: ""                   # https://chaos.projectdiscovery.io
+  # ── Code Search ──────────────────────────────────────────
+  github: ""                  # https://github.com/settings/tokens
+  # ── Internet Scanners ────────────────────────────────────
+  fofa_email: ""              # https://fofa.info
+  fofa_key: ""
+  zoomeye: ""                 # https://zoomeye.org
+
+settings:
+  threads: 100                # DNS resolution threads
+  timeout: 10                 # HTTP request timeout (seconds)
+  rate_limit: 0.5             # Seconds between requests per source
+  retries: 3                  # Retry failed requests
+  user_agent: "Mozilla/5.0 (compatible; SubHunterX/1.0; +https://github.com/khaledbenali/SubHunterX)"
+  proxy: ""                   # e.g. http://127.0.0.1:8080
+  use_tor: false              # Route through TOR (requires tor service running)
+  recursive: false            # Enumerate subdomains of subdomains
+  recursive_depth: 2
+  brute_force: true           # DNS brute force with wordlist
+  wordlist: "wordlists/subdomains.txt"
+  screenshot: true            # Take screenshots of live subdomains
+  screenshot_timeout: 15      # Max seconds per screenshot
+
+notifications:
+  slack_webhook: ""           # https://api.slack.com/messaging/webhooks
+  discord_webhook: ""         # Discord channel webhook URL
